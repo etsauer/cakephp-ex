@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to Eric Sauer's Super-Awesome OpenShift APP!!!!!!!!</h1>
+            <h1>Welcome to OpenShift Consuting Bootamp!!!</h1>
           </hgroup>
 
 
